@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PCCalk</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="regist">Regisztráció</string>
+    <string name="email">Email cím</string>
+    <string name="name">Név</string>
+    <string name="passwordAgain">Jelszó megerősítése</string>
+    <string name="vend_g">Vendég</string>
+    <string name="csak_n_zel_d_m">Csak Nézelődöm</string>
+
+    <array name="item_images">
+        <item>@drawable/amd</item>
+        <item>@drawable/intel</item>
+        <item>@drawable/nvidia</item>
+    </array>
+</resources>

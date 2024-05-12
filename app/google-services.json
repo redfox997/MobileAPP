@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388164512667",
+    "project_id": "pccalk-cb26e",
+    "storage_bucket": "pccalk-cb26e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388164512667:android:0a0a75162e11cc5e8ccf3e",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ7xuFKcXVRqEAZclEJj4Ux_ZLCn1Q1IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

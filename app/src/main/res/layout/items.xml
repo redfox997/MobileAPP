@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/itemImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:contentDescription="TODO" />
+
+        <TextView
+            android:id="@+id/itemBrand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/itemImage"
+            android:padding="8dp"
+            android:text=""
+            android:textColor="?android:textColorSecondary"/>
+
+        <TextView
+            android:id="@+id/itemModel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/itemBrand"
+            android:padding="8dp"
+            android:text=""
+            android:textColor="?android:textColorSecondary"/>
+
+        <TextView
+            android:id="@+id/itemBancmarkPoint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/itemModel"
+            android:padding="8dp"
+            android:text=""
+            android:textColor="?android:textColorSecondary"/>
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
